@@ -33,6 +33,8 @@ pip install tensorflow numpy matplotlib pillow
    - Place an image file (`digit.png`) in the working directory.
    - Ensure the image is a **grayscale** handwritten digit on a white background.
    - Run the script again to see the predicted digit.
+## Input
+![Inputimage ](https://github.com/user-attachments/assets/0be8ca74-5c7f-4008-95c0-b4894de585d3)
 
 ## Code Overview
 - **Loads the MNIST dataset** and normalizes pixel values.
