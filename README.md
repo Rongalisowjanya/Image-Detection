@@ -46,7 +46,7 @@ pip install tensorflow numpy matplotlib pillow
 ## Example Prediction
 The model can predict a custom handwritten digit from an image:
 ```sh
-Predicted Digit: 7
+Predicted Digit: 2
 ```
 
 ## Future Enhancements
